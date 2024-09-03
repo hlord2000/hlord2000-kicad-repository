@@ -140,6 +140,15 @@
                     "download_size": 326900,
                     "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2024.08.14/KiCAD-PCM-2024.08.14.zip",
                     "install_size": 2121394
+                },
+                {
+                    "version": "2024.09.02",
+                    "status": "testing",
+                    "kicad_version": "7.0",
+                    "download_sha256": "c3df7a6dd49957d1d665e35bbc52601555280416091f86672b19018332f7b1e6",
+                    "download_size": 331147,
+                    "download_url": "https://github.com/hlord2000/nordic-lib-kicad/releases/download/2024.09.02/KiCAD-PCM-2024.09.02.zip",
+                    "install_size": 2154647
                 }
             ]
         }
